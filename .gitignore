@@ -1,0 +1,9 @@
+.idea
+_pycache_
+ecommerce
+venv
+app.py
+converters.py
+machine learning.py
+main.py
+utils.py
